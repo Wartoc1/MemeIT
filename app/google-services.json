@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222100544844",
+    "firebase_url": "https://memeit-d9a54-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "memeit-d9a54",
+    "storage_bucket": "memeit-d9a54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222100544844:android:505fc629625eef93dcc3e9",
+        "android_client_info": {
+          "package_name": "com.example.memeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222100544844-vpgnuusi74779c94k2305ms41g8mfvtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JLDbzVyHoRYf--7RzdKjMmLkJQ9E_6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222100544844-vpgnuusi74779c94k2305ms41g8mfvtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
